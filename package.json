@@ -1,0 +1,30 @@
+{
+  "name": "gulp-sprite-generation",
+  "version": "1.0.0",
+  "description": "Gulp sprite generation demo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Krekotun/gulp-sprite-generation.git"
+  },
+  "keywords": [
+    "gulp",
+    "sprites",
+    "sprite",
+    "generation"
+  ],
+  "author": "Krekotun",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/Krekotun/gulp-sprite-generation/issues"
+  },
+  "homepage": "https://github.com/Krekotun/gulp-sprite-generation",
+  "dependencies": {
+    "gulp": "^3.8.5",
+    "gulp-stylus": "^1.0.2",
+    "gulp.spritesmith": "^1.1.1"
+  }
+}
