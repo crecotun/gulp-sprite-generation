@@ -1,4 +1,4 @@
 gulp-sprite-generation
 ======================
 
-Gulp sprite generation demo
+Демонстрация работы автоматической генерации спрайтов для статьи
